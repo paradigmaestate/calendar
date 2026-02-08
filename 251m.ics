@@ -1,0 +1,622 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hyask.ru//ЦГМУ-251м 2 семестр//RU
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ЦГМУ-251м (2 семестр)
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:20251026T020000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:20250216-1840-cgmu-1@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260216T184000
+DTEND;TZID=Europe/Moscow:20260216T200000
+SUMMARY:Конкурентоспособность региона (пр)
+DESCRIPTION:Преподаватель: проф. Абрамов Р.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20250216-2010-cgmu-2@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260216T201000
+DTEND;TZID=Europe/Moscow:20260216T213000
+SUMMARY:Конкурентоспособность региона (пр)
+DESCRIPTION:Преподаватель: проф. Абрамов Р.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20250220-1840-cgmu-3@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260220T184000
+DTEND;TZID=Europe/Moscow:20260220T200000
+SUMMARY:Конкурентоспособность региона (пр)
+DESCRIPTION:Преподаватель: проф. Абрамов Р.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20250220-2010-cgmu-4@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260220T201000
+DTEND;TZID=Europe/Moscow:20260220T213000
+SUMMARY:Конкурентоспособность региона (пр)
+DESCRIPTION:Преподаватель: проф. Абрамов Р.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20250227-1840-cgmu-5@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260227T184000
+DTEND;TZID=Europe/Moscow:20260227T200000
+SUMMARY:Конкурентоспособность региона (пр)
+DESCRIPTION:Преподаватель: проф. Абрамов Р.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20250227-2010-cgmu-6@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260227T201000
+DTEND;TZID=Europe/Moscow:20260227T213000
+SUMMARY:Конкурентоспособность региона (пр)
+DESCRIPTION:Преподаватель: проф. Абрамов Р.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260302-1840-cgmu-7@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260302T184000
+DTEND;TZID=Europe/Moscow:20260302T200000
+SUMMARY:Конкурентоспособность региона (пр)
+DESCRIPTION:Преподаватель: проф. Абрамов Р.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260302-2010-cgmu-8@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260302T201000
+DTEND;TZID=Europe/Moscow:20260302T213000
+SUMMARY:Конкурентоспособность региона (пр)
+DESCRIPTION:Преподаватель: проф. Абрамов Р.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260306-1840-cgmu-9@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260306T184000
+DTEND;TZID=Europe/Moscow:20260306T200000
+SUMMARY:Конкурентоспособность региона (пр)
+DESCRIPTION:Преподаватель: проф. Абрамов Р.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260306-2010-cgmu-10@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260306T201000
+DTEND;TZID=Europe/Moscow:20260306T213000
+SUMMARY:Конкурентоспособность региона (пр)
+DESCRIPTION:Преподаватель: проф. Абрамов Р.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260210-1840-cgmu-11@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260210T184000
+DTEND;TZID=Europe/Moscow:20260210T200000
+SUMMARY:Конкурентоспособность региона (пр)
+DESCRIPTION:Преподаватель: проф. Абрамов Р.А.\nТип: практическое занятие
+LOCATION:ауд. 201
+END:VEVENT
+BEGIN:VEVENT
+UID:20260210-2010-cgmu-12@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260210T201000
+DTEND;TZID=Europe/Moscow:20260210T213000
+SUMMARY:Конкурентоспособность региона (пр)
+DESCRIPTION:Преподаватель: проф. Абрамов Р.А.\nТип: практическое занятие
+LOCATION:ауд. 201
+END:VEVENT
+BEGIN:VEVENT
+UID:20260217-1840-cgmu-13@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260217T184000
+DTEND;TZID=Europe/Moscow:20260217T200000
+SUMMARY:Государственное регулирование экономики (пр)
+DESCRIPTION:Преподаватель: доц. Сурнина Т.В.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260217-2010-cgmu-14@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260217T201000
+DTEND;TZID=Europe/Moscow:20260217T213000
+SUMMARY:Государственное регулирование экономики (пр)
+DESCRIPTION:Преподаватель: доц. Сурнина Т.В.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260303-1840-cgmu-15@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260303T184000
+DTEND;TZID=Europe/Moscow:20260303T200000
+SUMMARY:Государственное регулирование экономики (пр)
+DESCRIPTION:Преподаватель: доц. Сурнина Т.В.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260303-2010-cgmu-16@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260303T201000
+DTEND;TZID=Europe/Moscow:20260303T213000
+SUMMARY:Государственное регулирование экономики (пр)
+DESCRIPTION:Преподаватель: доц. Сурнина Т.В.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260317-1840-cgmu-17@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260317T184000
+DTEND;TZID=Europe/Moscow:20260317T200000
+SUMMARY:Государственное регулирование экономики (пр)
+DESCRIPTION:Преподаватель: доц. Сурнина Т.В.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260317-2010-cgmu-18@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260317T201000
+DTEND;TZID=Europe/Moscow:20260317T213000
+SUMMARY:Государственное регулирование экономики (пр)
+DESCRIPTION:Преподаватель: доц. Сурнина Т.В.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260331-1840-cgmu-19@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260331T184000
+DTEND;TZID=Europe/Moscow:20260331T200000
+SUMMARY:Государственное регулирование экономики (пр)
+DESCRIPTION:Преподаватель: доц. Сурнина Т.В.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260331-2010-cgmu-20@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260331T201000
+DTEND;TZID=Europe/Moscow:20260331T213000
+SUMMARY:Государственное регулирование экономики (пр)
+DESCRIPTION:Преподаватель: доц. Сурнина Т.В.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260414-1840-cgmu-21@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260414T184000
+DTEND;TZID=Europe/Moscow:20260414T200000
+SUMMARY:Государственное регулирование экономики (пр)
+DESCRIPTION:Преподаватель: доц. Сурнина Т.В.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260414-2010-cgmu-22@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260414T201000
+DTEND;TZID=Europe/Moscow:20260414T213000
+SUMMARY:Государственное регулирование экономики (пр)
+DESCRIPTION:Преподаватель: доц. Сурнина Т.В.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260324-1840-cgmu-23@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260324T184000
+DTEND;TZID=Europe/Moscow:20260324T200000
+SUMMARY:КВ: Налоговые системы зарубежных стран (пр)
+DESCRIPTION:Преподаватель: доц. Шинкарёва О.В.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260324-2010-cgmu-24@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260324T201000
+DTEND;TZID=Europe/Moscow:20260324T213000
+SUMMARY:КВ: Налоговые системы зарубежных стран (пр)
+DESCRIPTION:Преподаватель: доц. Шинкарёва О.В.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260421-2010-cgmu-25@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260421T201000
+DTEND;TZID=Europe/Moscow:20260421T213000
+SUMMARY:КВ: Налоговые системы зарубежных стран (пр)
+DESCRIPTION:Преподаватель: доц. Шинкарёва О.В.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260407-1840-cgmu-26@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260407T184000
+DTEND;TZID=Europe/Moscow:20260407T200000
+SUMMARY:Межведомственное электронное взаимодействие (пр)
+DESCRIPTION:Преподаватель: ст. преп. Кормачева С.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260407-2010-cgmu-27@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260407T201000
+DTEND;TZID=Europe/Moscow:20260407T213000
+SUMMARY:Межведомственное электронное взаимодействие (пр)
+DESCRIPTION:Преподаватель: ст. преп. Кормачева С.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260421-1840-cgmu-28@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260421T184000
+DTEND;TZID=Europe/Moscow:20260421T200000
+SUMMARY:Межведомственное электронное взаимодействие (пр)
+DESCRIPTION:Преподаватель: ст. преп. Кормачева С.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260428-1840-cgmu-29@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260428T184000
+DTEND;TZID=Europe/Moscow:20260428T200000
+SUMMARY:Межведомственное электронное взаимодействие (пр)
+DESCRIPTION:Преподаватель: ст. преп. Кормачева С.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260428-2010-cgmu-30@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260428T201000
+DTEND;TZID=Europe/Moscow:20260428T213000
+SUMMARY:Межведомственное электронное взаимодействие (пр)
+DESCRIPTION:Преподаватель: ст. преп. Кормачева С.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260505-1840-cgmu-31@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260505T184000
+DTEND;TZID=Europe/Moscow:20260505T200000
+SUMMARY:Межведомственное электронное взаимодействие (пр)
+DESCRIPTION:Преподаватель: ст. преп. Кормачева С.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260505-2010-cgmu-32@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260505T201000
+DTEND;TZID=Europe/Moscow:20260505T213000
+SUMMARY:Межведомственное электронное взаимодействие (пр)
+DESCRIPTION:Преподаватель: ст. преп. Кормачева С.А.\nТип: практическое занятие\n
+  Формат: дистанционный
+LOCATION:Дистанционный формат
+END:VEVENT
+BEGIN:VEVENT
+UID:20260214-0900-cgmu-33@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260214T090000
+DTEND;TZID=Europe/Moscow:20260214T102000
+SUMMARY:Государственное регулирование экономики (пр)
+DESCRIPTION:Преподаватель: доц. Сурнина Т.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260214-1030-cgmu-34@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260214T103000
+DTEND;TZID=Europe/Moscow:20260214T115000
+SUMMARY:Государственное регулирование экономики (пр)
+DESCRIPTION:Преподаватель: доц. Сурнина Т.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260214-1240-cgmu-35@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260214T124000
+DTEND;TZID=Europe/Moscow:20260214T140000
+SUMMARY:Проблемы деловой коммуникации (пр)
+DESCRIPTION:Преподаватель: проф. Гуськов Ю.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260214-1410-cgmu-36@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260214T141000
+DTEND;TZID=Europe/Moscow:20260214T153000
+SUMMARY:Проблемы деловой коммуникации (пр)
+DESCRIPTION:Преподаватель: проф. Гуськов Ю.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260228-0900-cgmu-37@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260228T090000
+DTEND;TZID=Europe/Moscow:20260228T102000
+SUMMARY:Проблемы деловой коммуникации (пр)
+DESCRIPTION:Преподаватель: проф. Гуськов Ю.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260228-1030-cgmu-38@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260228T103000
+DTEND;TZID=Europe/Moscow:20260228T115000
+SUMMARY:Проблемы деловой коммуникации (пр)
+DESCRIPTION:Преподаватель: проф. Гуськов Ю.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260228-1240-cgmu-39@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260228T124000
+DTEND;TZID=Europe/Moscow:20260228T140000
+SUMMARY:Управление общественным сектором экономики (пр)
+DESCRIPTION:Преподаватель: доц. Зубеева Е.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260228-1410-cgmu-40@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260228T141000
+DTEND;TZID=Europe/Moscow:20260228T153000
+SUMMARY:Управление общественным сектором экономики (пр)
+DESCRIPTION:Преподаватель: доц. Зубеева Е.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260314-0900-cgmu-41@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260314T090000
+DTEND;TZID=Europe/Moscow:20260314T102000
+SUMMARY:КВ: Налоговые системы зарубежных стран (пр)
+DESCRIPTION:Преподаватель: доц. Шинкарёва О.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260314-1030-cgmu-42@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260314T103000
+DTEND;TZID=Europe/Moscow:20260314T115000
+SUMMARY:КВ: Налоговые системы зарубежных стран (пр)
+DESCRIPTION:Преподаватель: доц. Шинкарёва О.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260314-1240-cgmu-43@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260314T124000
+DTEND;TZID=Europe/Moscow:20260314T140000
+SUMMARY:Управление общественным сектором экономики (пр)
+DESCRIPTION:Преподаватель: доц. Зубеева Е.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260314-1410-cgmu-44@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260314T141000
+DTEND;TZID=Europe/Moscow:20260314T153000
+SUMMARY:Управление общественным сектором экономики (пр)
+DESCRIPTION:Преподаватель: доц. Зубеева Е.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260321-0900-cgmu-45@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260321T090000
+DTEND;TZID=Europe/Moscow:20260321T102000
+SUMMARY:Проблемы деловой коммуникации (пр)
+DESCRIPTION:Преподаватель: проф. Гуськов Ю.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260321-1030-cgmu-46@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260321T103000
+DTEND;TZID=Europe/Moscow:20260321T115000
+SUMMARY:Проблемы деловой коммуникации (пр)
+DESCRIPTION:Преподаватель: проф. Гуськов Ю.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260328-0900-cgmu-47@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260328T090000
+DTEND;TZID=Europe/Moscow:20260328T102000
+SUMMARY:КВ: Налоговые системы зарубежных стран (пр)
+DESCRIPTION:Преподаватель: доц. Шинкарёва О.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260328-1030-cgmu-48@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260328T103000
+DTEND;TZID=Europe/Moscow:20260328T115000
+SUMMARY:КВ: Налоговые системы зарубежных стран (пр)
+DESCRIPTION:Преподаватель: доц. Шинкарёва О.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260328-1240-cgmu-49@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260328T124000
+DTEND;TZID=Europe/Moscow:20260328T140000
+SUMMARY:Управление общественным сектором экономики (пр)
+DESCRIPTION:Преподаватель: доц. Зубеева Е.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260328-1410-cgmu-50@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260328T141000
+DTEND;TZID=Europe/Moscow:20260328T153000
+SUMMARY:Управление общественным сектором экономики (пр)
+DESCRIPTION:Преподаватель: доц. Зубеева Е.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260404-0900-cgmu-51@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260404T090000
+DTEND;TZID=Europe/Moscow:20260404T102000
+SUMMARY:Межведомственное электронное взаимодействие (пр)
+DESCRIPTION:Преподаватель: ст. преп. Кормачева С.А.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260404-1030-cgmu-52@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260404T103000
+DTEND;TZID=Europe/Moscow:20260404T115000
+SUMMARY:Межведомственное электронное взаимодействие (пр)
+DESCRIPTION:Преподаватель: ст. преп. Кормачева С.А.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260404-1240-cgmu-53@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260404T124000
+DTEND;TZID=Europe/Moscow:20260404T140000
+SUMMARY:КВ: Маркетинг территорий (пр)
+DESCRIPTION:Преподаватель: асс. Сычева Р.Д.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260404-1410-cgmu-54@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260404T141000
+DTEND;TZID=Europe/Moscow:20260404T153000
+SUMMARY:КВ: Маркетинг территорий (пр)
+DESCRIPTION:Преподаватель: асс. Сычева Р.Д.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260411-0900-cgmu-55@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260411T090000
+DTEND;TZID=Europe/Moscow:20260411T102000
+SUMMARY:Проблемы деловой коммуникации (пр)
+DESCRIPTION:Преподаватель: проф. Гуськов Ю.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260411-1030-cgmu-56@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260411T103000
+DTEND;TZID=Europe/Moscow:20260411T115000
+SUMMARY:Проблемы деловой коммуникации (пр)
+DESCRIPTION:Преподаватель: проф. Гуськов Ю.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260411-1240-cgmu-57@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260411T124000
+DTEND;TZID=Europe/Moscow:20260411T140000
+SUMMARY:КВ: Маркетинг территорий (пр)
+DESCRIPTION:Преподаватель: асс. Сычева Р.Д.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260411-1410-cgmu-58@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260411T141000
+DTEND;TZID=Europe/Moscow:20260411T153000
+SUMMARY:КВ: Маркетинг территорий (пр)
+DESCRIPTION:Преподаватель: асс. Сычева Р.Д.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260418-0900-cgmu-59@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260418T090000
+DTEND;TZID=Europe/Moscow:20260418T102000
+SUMMARY:КВ: Маркетинг территорий (пр)
+DESCRIPTION:Преподаватель: асс. Сычева Р.Д.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260418-1030-cgmu-60@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260418T103000
+DTEND;TZID=Europe/Moscow:20260418T115000
+SUMMARY:Проблемы деловой коммуникации (пр)
+DESCRIPTION:Преподаватель: проф. Гуськов Ю.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260418-1240-cgmu-61@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260418T124000
+DTEND;TZID=Europe/Moscow:20260418T140000
+SUMMARY:Управление общественным сектором экономики (пр)
+DESCRIPTION:Преподаватель: доц. Зубеева Е.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260418-1410-cgmu-62@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260418T141000
+DTEND;TZID=Europe/Moscow:20260418T153000
+SUMMARY:Управление общественным сектором экономики (пр)
+DESCRIPTION:Преподаватель: доц. Зубеева Е.В.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260425-1240-cgmu-63@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260425T124000
+DTEND;TZID=Europe/Moscow:20260425T140000
+SUMMARY:КВ: Маркетинг территорий (пр)
+DESCRIPTION:Преподаватель: асс. Сычева Р.Д.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+BEGIN:VEVENT
+UID:20260425-1410-cgmu-64@hyask.ru
+DTSTAMP:20250208T000000Z
+DTSTART;TZID=Europe/Moscow:20260425T141000
+DTEND;TZID=Europe/Moscow:20260425T153000
+SUMMARY:КВ: Маркетинг территорий (пр)
+DESCRIPTION:Преподаватель: асс. Сычева Р.Д.\nТип: практическое занятие
+LOCATION:ауд. 403
+END:VEVENT
+END:VCALENDAR
